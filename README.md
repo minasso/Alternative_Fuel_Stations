@@ -1,3 +1,4 @@
+**Purpose**
 The purpose of this project is to explore the alternative fuel stations in the US using geospatial analysis in R.
 
 **Questions:** 
